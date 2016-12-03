@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-![avatar](avatar.jpg)
+![avatar](pug.gif)
 # Edison
 
 Post student  ,NCCU
