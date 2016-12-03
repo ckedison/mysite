@@ -2,8 +2,8 @@
 layout: default
 ---
 
-![avatar](avatar.jpg)
 
+![avatar](avatar.jpg)
 # Edison
 
 Post student  ,NCCU
